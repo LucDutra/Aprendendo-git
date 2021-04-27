@@ -1,0 +1,14 @@
+Lucas.Dutra
+    Dev
+
+
+
+------------- Comandos basicos git e bash
+como navegar entre pastas dentro do gitbash
+        **Entrar na pasta
+           cd /c/Lucas.Dutra/dev
+         **Voltar um nivel
+           cd ..
+
+Ver conteudo da pasta
+        ** ls

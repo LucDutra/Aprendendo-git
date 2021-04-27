@@ -12,3 +12,15 @@ como navegar entre pastas dentro do gitbash
 
 Ver conteudo da pasta
         ** ls
+-------------------------------------------------
+Passo a passo para enviar um commit para o repositorio com comandos
+
+Git add Nome do arquivo
+
+Git status - Verificar Status
+
+Git commit -m 'arquivo de anotacoes.txt'
+
+Git status - Verificar status
+
+Git push 

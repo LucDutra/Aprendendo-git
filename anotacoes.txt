@@ -15,12 +15,15 @@ Ver conteudo da pasta
 -------------------------------------------------
 Passo a passo para enviar um commit para o repositorio com comandos
 
-Git add Nome do arquivo
+Alterar arquivo
 
 Git status - Verificar Status
 
-Git commit -m 'arquivo de anotacoes.txt'
+Git add nome arquivo
 
-Git status - Verificar status
+Git commit -m 'mensagem'
 
-Git push 
+Git push
+
+
+alteração

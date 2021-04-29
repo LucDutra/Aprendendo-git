@@ -30,4 +30,4 @@ Git push
 
 
 git checkout -b <branch_name> - criar uma nova branch_name
-git checkou <branch_name> - Vai para um branch especifica.
+git checkout <branch_name> - Vai para um branch_name 

@@ -28,4 +28,6 @@ Git commit -m 'mensagem'
 Git push
 ----------------------------------------------------
 
-Git checkout -b 'Nome da branch' - Cria uma nova Branch e entra nela. 
+Git checkout -b 'Nome da branch' - Cria uma nova Branch e entra nela.
+
+Git branch -l   Verificar quantas branchs tem na maquina. 

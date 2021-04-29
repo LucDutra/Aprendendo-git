@@ -26,4 +26,8 @@ Git commit -m 'mensagem'
 Git push
 
 
-alteração test2
+----------------------------------
+
+
+git checkout -b <branch_name> - criar uma nova branch_name
+git checkou <branch_name> - Vai para um branch especifica.

@@ -31,3 +31,5 @@ Git push
 
 git checkout -b <branch_name> - criar uma nova branch_name
 git checkout <branch_name> - Vai para um branch_name 
+
+Git branch -l   Verificar quantas branchs tem na maquina. 

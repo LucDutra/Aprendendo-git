@@ -31,3 +31,13 @@ Git push
 Git checkout -b 'Nome da branch' - Cria uma nova Branch e entra nela.
 
 Git branch -l   Verificar quantas branchs tem na maquina. 
+
+-------------------------------------------------- ---
+
+Passo a passo para fazer o MERGE (Juntar BRANCH com a MAIN)
+
+git checkout main (Andar até a MAIN)
+git pull origin (Atualizar dados entre LOCAL e NUVEM)
+git merge <branch_name> 
+Vai abrir uma mensagem que pode ser fechada
+git push origin
